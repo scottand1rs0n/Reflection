@@ -9,5 +9,5 @@ Contents
 
 ---
 # Reflection
-## 6/31/17
+## 6/30/17
 Today, I learned how to navigate through the pi. I learned how to write scripts, and became more confident with the pi. I am becoming more comfertable with the pi, and am learning more commands. One thing I found very helpful was the auto fill in feature for code that you don't remember. You type a letter and hit tab and it fills it in. Also, learning how to connect the pi to the internet is helpful. I also learned about HTML and how to make a website! It is baciclly files that organize material. FUN STUFF! Also learned about starve.io! Great program!
