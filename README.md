@@ -1,6 +1,6 @@
 # Reflection
 ## 7/5/17
-Today, I continued working on my website. I picked the name Chipped because often times skaters will chip their boards, which is something they do not like. I thoght it was catchy, so I went with it. Next, I moded the regular slideshow and turned it into a cauousel slideshow. The pictures scroll by themselves, rather than having to click the arrows to see the pics. Now, I am working on making different links so that I can access different pages on the site. I wan it to be a skateboarding site for people to take pics they like and use them for their backgrounds. I am hoping to add video as well, but the pictures are #1 right now. Finally, I am going to make the site look cooler by adding different colors and pictures. 
+Today, I continued working on my website. I picked the name Chipped because often times skaters will chip their boards, which makes it much harder to skate. I thoght it was catchy, so I went with it. Next, I moded the regular slideshow and turned it into a cauousel slideshow. The pictures scroll by themselves, rather than having to click the arrows to see the pics. Now, I am working on making different links so that I can access different pages on the site. I wan it to be a skateboarding site for people to take pics they like and use them for their backgrounds. I am hoping to add video as well, but the pictures are #1 right now. Finally, I am going to make the site look cooler by adding different colors and pictures. I learned how to make deep colors rather than very light colors. I was only changing one number, but you need to add/remove f's and numbers. Overall, I tried making the bacic things I added fancier. 
 
 
 
@@ -17,4 +17,5 @@ Today, I learned how to navigate through the pi. I learned how to write scripts,
 # Reflection
 ## 6/29/17
 Today, I learned how to work my rasberry pi. We worked on connecting the internet to the pi, as well as how to clone files. I also learned a few types of commands like ls and ping! I learned that with pi, you don't need to download any files or programs because they are all downloaded. I am hoping to learn how to further navigate the pi and create programs that can be used in my everday life. I am very happy with the course so far, and am learning a lot. Overall, I learned how to do a few bacic commands, how to clone, and how to work together and find a solution to difficult problems like setting up the wifi. Can't wait till we start getting serious and making some crazy programs that can make life easier.
+
 ---
