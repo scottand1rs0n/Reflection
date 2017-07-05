@@ -1,4 +1,10 @@
 # Reflection
+## 7/5/17
+Today, I started writing my own website! Using bootstrap templates from w3schools.com, I picked a website I liked and started making changes to the code. I learned that with bootstrap, the screen layout will change to what kind of screen it is being shown on. Turns out, the website that created the bootstrap code does not use it on their own website! I didn't use the pi much, but practiced a lot with the website. We learned that css is the graphics of an html site. Without css, the page would be blank with links on it. I added pictures, as well as a slideshow to show the pictures. It helps to delete code and see what happens! This is one of the ways I learn about how code works. Taking a piston out of an engine and trying to run the car is a great way to learn how the car works! Finally, after long and careful coding, I figured out how to fix my first website called Scott's favorite shows. It took a very long time and a few breaks to finally get it the way I wanted it. After using css and bootstrap, I see how much is possible as far as graphics go. You can do much more with css. 
+
+
+
+# Reflection
 ## 6/29/17
 Today, I learned how to work my rasberry pi. We worked on connecting the internet to the pi, as well as how to clone files. I also learned a few types of commands like ls and ping! I learned that with pi, you don't need to download any files or programs because they are all downloaded. I am hoping to learn how to further navigate the pi and create programs that can be used in my everday life. I am very happy with the course so far, and am learning a lot. Overall, I learned how to do a few bacic commands, how to clone, and how to work together and find a solution to difficult problems like setting up the wifi. Can't wait till we start getting serious and making some crazy programs that can make life easier.
 
