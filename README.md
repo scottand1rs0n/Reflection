@@ -1,4 +1,10 @@
 # Reflection
+## 7/6/17
+Today, I learned about strings, integers, floats, booleans, as well as python. A string is a series of numbers and letters that make up text. Integers are whole numbers, floats are real numbers, and booleans are true and false statements. When using these, we can tell the computer to remember data and display it later on. Creating variables is helpful because you can plug in data and pull it up several times. You can also do math using variables. Times is not x, it is *. 2 * is squared. I used google docs to write code using variables for a conversation. I learned that python is a low level code, which means it is very close to the hardware, rather than high level code which easier to use. A jet has high level code because if it was low level code and something went wrong, the plane would crash.  
+
+
+
+# Reflection
 ## 7/5/17
 Today, I continued working on my website. I picked the name Chipped because often times skaters will chip their boards, which makes it much harder to skate. I thoght it was catchy, so I went with it. Next, I moded the regular slideshow and turned it into a cauousel slideshow. The pictures scroll by themselves, rather than having to click the arrows to see the pics. Now, I am working on making different links so that I can access different pages on the site. I wan it to be a skateboarding site for people to take pics they like and use them for their backgrounds. I am hoping to add video as well, but the pictures are #1 right now. Finally, I am going to make the site look cooler by adding different colors and pictures. I learned how to make deep colors rather than very light colors. I was only changing one number, but you need to add/remove f's and numbers. Overall, I tried making the bacic things I added fancier. 
 
