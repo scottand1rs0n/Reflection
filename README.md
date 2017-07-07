@@ -1,4 +1,10 @@
 # Reflection
+## 7/7/17
+Today, I learned about lists, and also refreshed on functions. We played a game and tried to identify the type of function it was. I worked on making a list, but struggled finding the small errors in the code. I would be missing a " in one spot, and forget to add an = sign in another spot. I ran into lots of issues today with both the practice list and my website. On the site, I am trying to link Longboarding and Cruising to the tabs, and link it back to the home page. I need to read through the code and identify what is keeping the code from working. I typed the extension into the url and the site worked, but the link does not work when I click on it. Also, when I am at the different page, I can't get back to the home page. I will work on it tonight and add a few other details like pics. 
+
+
+
+# Reflection
 ## 7/6/17
 Today, I learned about strings, integers, floats, booleans, as well as python. A string is a series of numbers and letters that make up text. Integers are whole numbers, floats are real numbers, and booleans are true and false statements. When using these, we can tell the computer to remember data and display it later on. Creating variables is helpful because you can plug in data and pull it up several times. You can also do math using variables. Times is not x, it is *. 2 * is squared. I used google docs to write code using variables for a conversation. I learned that python is a low level code, which means it is very close to the hardware, rather than high level code which easier to use. A jet has high level code because if it was low level code and something went wrong, the plane would crash.  
 
