@@ -1,4 +1,11 @@
 # Reflection
+## 7/10/17
+Today, I worked on setting up my laptop for the project we are starting. I installed Python on my laptop, as well as Atom and Git desktop. I tried searching through the programs to get comfortable with how they work. I am struggling with this, but tonight I am going to play around with the programs. I am also struggling with figuring out the code for the Pokemon project. We are using print and input, as well as functions to make it work. I will have to watch videos on how to do this, since my chromebook was not the ideal coding tool when we were learning about it. I believe it is saved in my google docs, but learning more about it won't hurt. I am excited to write this code, even though it looks scary right now. One thing I need to work on is using lists. I had trouble making the number creator last week, so I will have to work on this tonight too.
+
+
+
+
+# Reflection
 ## 7/7/17
 Today, I learned about lists, and also refreshed on functions. We played a game and tried to identify the type of function it was. I worked on making a list, but struggled finding the small errors in the code. I would be missing a " in one spot, and forget to add an = sign in another spot. I ran into lots of issues today with both the practice list and my website. On the site, I am trying to link Longboarding and Cruising to the tabs, and link it back to the home page. I need to read through the code and identify what is keeping the code from working. I typed the extension into the url and the site worked, but the link does not work when I click on it. Also, when I am at the different page, I can't get back to the home page. I will work on it tonight and add a few other details like pics. 
 
