@@ -1,4 +1,11 @@
 # Reflection
+## 7/11/17
+Today, we reviewed lists, and learned about dictionaries. We used the two in a coding example where we needed to use variables and dictionaries to allow the code to work. I leanred more about Atom and how it works, as well as how to link python to Atom. I remember what code to enter into python, but with the new feature I don't need to use it anymore! I continued working on my pokemon project as well, and coded the bacic format. I will go back and add more features like text scrolling and possibly even pictures! I learned how to combine strings as well, which helped with the last line of code. I am getting much more comfortable with the code, and I am learning lots. Today was a huge success!
+
+
+
+
+# Reflection
 ## 7/10/17
 Today, I worked on setting up my laptop for the project we are starting. I installed Python on my laptop, as well as Atom and Git desktop. I tried searching through the programs to get comfortable with how they work. I am struggling with this, but tonight I am going to play around with the programs. I am also struggling with figuring out the code for the Pokemon project. We are using print and input, as well as functions to make it work. I will have to watch videos on how to do this, since my chromebook was not the ideal coding tool when we were learning about it. I believe it is saved in my google docs, but learning more about it won't hurt. I am excited to write this code, even though it looks scary right now. One thing I need to work on is using lists. I had trouble making the number creator last week, so I will have to work on this tonight too.
 
