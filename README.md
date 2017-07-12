@@ -1,4 +1,12 @@
 # Reflection
+## 7/12/17
+Today, I learned about if and else statements, as well as string manipulation. I applied what I learned to a clock project. First, we made the clock work by using strings and if/else statements. After testing/fixing the code, it displayed the first and second numbers. Then, we took it a step further and converted military time to normal time for times in the morning and evening. Now, I need to convert standard time to military time. Instead of subtracting 12, I will add 12 and remove the am/pm. For example, 10:30 PM in military time would be 22:30. We get this by adding 12 to the first time. I learned so much today, and am very happy we did such a tough project. I learned how to think through a problem in code, and how to fully understand what the requirements are. 
+
+
+
+
+
+# Reflection
 ## 7/11/17
 Today, we reviewed lists, and learned about dictionaries. We used the two in a coding example where we needed to use variables and dictionaries to allow the code to work. I leanred more about Atom and how it works, as well as how to link python to Atom. I remember what code to enter into python, but with the new feature I don't need to use it anymore! I continued working on my pokemon project as well, and coded the bacic format. I will go back and add more features like text scrolling and possibly even pictures! I learned how to combine strings as well, which helped with the last line of code. I am getting much more comfortable with the code, and I am learning lots. Today was a huge success!
 
