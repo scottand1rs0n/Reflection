@@ -1,4 +1,13 @@
 # Reflection
+## 7/13/17
+Today, I learned about loops. A loop makes a function run until a code tells it to stop. We did a few practice programs that invoved repeating numbers, then started the dot project. I was so close to finishing the project, but time ran out and I needed to write the reflection. My problem was in the print statement in the last line of code. This was my issue with the clock project too. I was one piece away from finishing, and I could not figure out what was wrong. With this project, I need to figure out how to get the x value because it goes down but not right. I tried multiplying, adding, and many other ways, but ended up with the same problem. I am hoping to figure this out soon. I believe that multiplying the y by 2 or squaring it to make it stretch to whatever the y is. 
+
+
+
+
+
+
+# Reflection
 ## 7/12/17
 Today, I learned about if and else statements, as well as string manipulation. I applied what I learned to a clock project. First, we made the clock work by using strings and if/else statements. After testing/fixing the code, it displayed the first and second numbers. Then, we took it a step further and converted military time to normal time for times in the morning and evening. Now, I need to convert standard time to military time. Instead of subtracting 12, I will add 12 and remove the am/pm. For example, 10:30 PM in military time would be 22:30. We get this by adding 12 to the first time. I learned so much today, and am very happy we did such a tough project. I learned how to think through a problem in code, and how to fully understand what the requirements are. 
 
