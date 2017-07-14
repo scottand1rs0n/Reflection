@@ -1,4 +1,12 @@
 # Reflection
+## 7/14/17
+Today, I learned how to properly do the box and dot code. My code was incorrect in the end. I was trying to get the hoizontal dots to show up, but it only worked with 2 across. I was trying to multiply rather than use loops. I was trying to do print((x) * (y)) to get it to go down and right, but this does not work. I also learned about password crackers. I tried finding the password to the classword wifi, and worked very long. I was about to shut it down, and at one point was doing it wrong. I then tried password. The password was password, the most common password used. I tried this before in a list, but since I was doing it wrong, it would have never worked. I tried hard today, and learned that coding always gets harder. There is no easy way to do it, I just have to keep trying different ways. I have to look at the big picture and try to find a way to make it work in order. 
+
+
+
+
+
+# Reflection
 ## 7/13/17
 Today, I learned about loops. A loop makes a function run until a code tells it to stop. We did a few practice programs that invoved repeating numbers, then started the dot project. I was so close to finishing the project, but time ran out and I needed to write the reflection. My problem was in the print statement in the last line of code. This was my issue with the clock project too. I was one piece away from finishing, and I could not figure out what was wrong. With this project, I need to figure out how to get the x value because it goes down but not right. I tried multiplying, adding, and many other ways, but ended up with the same problem. I am hoping to figure this out soon. I believe that multiplying the y by 2 or squaring it to make it stretch to whatever the y is. 
 
