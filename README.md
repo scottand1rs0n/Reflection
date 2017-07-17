@@ -1,4 +1,11 @@
 # Reflection
+## 7/17/17
+I learned about factorials, and refreshed on if and and/or statements. I worked on the wifi project for the majority of the class, and am asking many questions. Currently, I am working on the if statements that check for ones and zeros. I am working very hard on this project, and I am learning so much about code. I am learning the wifi code, and how to think like a programmer. I am planning on researching more into how to use python. The more frustrated I get, the more I want to figure it out. I am getting more and more intrested in making my own code the way I think. I want my code to be unique to how I think and how my brain puts together information. Can't wait till I figure out the wifi project.
+
+
+
+
+# Reflection
 ## 7/14/17
 Today, I learned how to properly do the box and dot code. My code was incorrect in the end. I was trying to get the hoizontal dots to show up, but it only worked with 2 across. I was trying to multiply rather than use loops. I was trying to do print((x) * (y)) to get it to go down and right, but this does not work. I also learned about password crackers. I tried finding the password to the classword wifi, and worked very long. I was about to shut it down, and at one point was doing it wrong. I then tried password. The password was password, the most common password used. I tried this before in a list, but since I was doing it wrong, it would have never worked. I tried hard today, and learned that coding always gets harder. There is no easy way to do it, I just have to keep trying different ways. I have to look at the big picture and try to find a way to make it work in order. 
 
