@@ -1,4 +1,10 @@
 # Reflection
+## 7/18/17
+Today, I worked on the wifi project which is still unfinished. I tried adding other and's and or's, as well as fixing the layout. I believe the issue is in the and statements, even though there are many places it could go wrong. I want to figure the code out and break through this barrier, so that I can move on to different projects. When the problem is tough, I start trying random things. After a while, it becomes mindless. I will keep working on it tomorrow. I also learned from the coding website. I learned how to count the number of letters in a string, and how to fully capitalize a string or completely lowercase it. I have to re-do the website because I did not make an account on the website. I learned a lot today, but still did not finish the wifi project. 
+
+
+
+# Reflection
 ## 7/17/17
 I learned about factorials, and refreshed on if and and/or statements. I worked on the wifi project for the majority of the class, and am asking many questions. Currently, I am working on the if statements that check for ones and zeros. I am working very hard on this project, and I am learning so much about code. I am learning the wifi code, and how to think like a programmer. I am planning on researching more into how to use python. The more frustrated I get, the more I want to figure it out. I am getting more and more intrested in making my own code the way I think. I want my code to be unique to how I think and how my brain puts together information. Can't wait till I figure out the wifi project.
 
