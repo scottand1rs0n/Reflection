@@ -1,4 +1,12 @@
 # Reflection
+## 7/19/17
+Today, I worked on the coding project. I had the base code down, but there were a few errors with it. Eventually, I fixed it and moved on to other issues. I would try something for a while, but when it would not work, I would start trying random things to see if it would work. We then got the isssue down to just one small problem. I apparently had the right code at the start of the project, but one small issue that was hiding so well made me think the problem was with the thing I had right. I fixed that problem, and the code worked. However, it still does not find the password. We will fix that tomorrow. Overall, I learned that I need to look at the big picture, then zoom into smaller details. I would try small issues hoping it would work out, and find out that it did not work. I also learned from Mr. Gold what to look for and how to fix it. Small details like these will help me with my next project. I learned a lot today, and I am happy nobody told me how to do it. Mr. Gold would give me help and tips when I was struggling, 
+but never told me directly what to do or what was wrong. I learned a lot from this. 
+
+
+
+
+# Reflection
 ## 7/18/17
 Today, I worked on the wifi project which is still unfinished. I tried adding other and's and or's, as well as fixing the layout. I believe the issue is in the and statements, even though there are many places it could go wrong. I want to figure the code out and break through this barrier, so that I can move on to different projects. When the problem is tough, I start trying random things. After a while, it becomes mindless. I will keep working on it tomorrow. I also learned from the coding website. I learned how to count the number of letters in a string, and how to fully capitalize a string or completely lowercase it. I have to re-do the website because I did not make an account on the website. I learned a lot today, but still did not finish the wifi project. 
 
