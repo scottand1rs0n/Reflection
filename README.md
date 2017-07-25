@@ -1,4 +1,11 @@
 # Reflection
+## 7/25/17
+Today, I learned more about defining variables, as well as how to use math to solve problems. I came into class today not knowing how to use variables, and I am leaving with more knowledge than I came in with! I now know how defining functions work, why they are useful, and how to make my own variables. It took a while to figure it out, but after doing it with some math it now makes sence. It is so much easier to use defining variables than using block code. I will learn how to do more with the twitter project, and I am thinking of new ways to gain followers. I am learning so much from running into problems. 
+
+
+
+
+# Reflection
 ## 7/24/17
 Today, I set up a fake email, phone number, and twitter. We did this the first half of class. The second half consisted of pimping out the twitter acount. I found cool pics to make it look legit, and added a nice bio for and added touch. I also posted 2 tweets, one a test and one a personal tweet. I am very interested in this topic because it it fun, complicated, and something that has an influence on the real world. Coding bacic programs was fun, but now we are moving into more complex code. I still need to start the happy numbers project. I am planning on working on it tonight, as well as doing research on the twitter project. For the last week, I am going to give it my all, and learn everything I can before I leave. I have already learned so much in the past 4 weeks. I would have never been able to do this at home, and I believe this class is the best way to get into coding. So far, we learned about functions, variables, loops, if statements, etc. I will continue coding when this class is over.
 
