@@ -1,4 +1,8 @@
 # Reflection
+## 7/26/17
+Today, I spent my time working on happy numbers. I started off by doing a simple program that squares a number. I then began working on the other parts of the project, such as spliting the number up into digits and squaring them. This is where I am stuck. I wrote the requirements out to help me understand it better. Now, I need to get each function to work. Split function is supposed to split up the number that you enter, so that the square function can double each of the numbers. I then need to add the numbers up, and continue the process until the answer is 0. This is a tough problem, but I am going to work on it later tonight and tomorrow. I also need to do some more work on my twitter bot. As of now, I am more focused on the happy numbers project. 
+
+# Reflection
 ## 7/25/17
 Today, I learned more about defining variables, as well as how to use math to solve problems. I came into class today not knowing how to use variables, and I am leaving with more knowledge than I came in with! I now know how defining functions work, why they are useful, and how to make my own variables. It took a while to figure it out, but after doing it with some math it now makes sence. It is so much easier to use defining variables than using block code. I will learn how to do more with the twitter project, and I am thinking of new ways to gain followers. I am learning so much from running into problems. 
 
