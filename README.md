@@ -1,4 +1,11 @@
 # Reflection
+## 7/28/17
+This summer, I learned so much in so little time. First, I learned about how a computer thinks. A computer uses 1's and 0's to do operations, also known as binary. The computer uses circuts to turn switches on and off. The parts of a computer include the hard drive, CPU, as well as the motherboard. Although these are not the only parts, the computer has thousands of pieces that all work together. When we started coding, I was using the pi. I thought the terminal in the pi was where you coded, and I thought I was in the matrix. I had expirence with alice, but when I saw real code I was overwhelmed. I enjoyed working on the website using html and css. I liked how we could customize the site and make it our own. When I got my laptop, I installed python and began learning about python code. We started with bacic code like printing "Hello". We then started doing more complex code. I learned so much and will continue coding in the future!
+
+
+
+
+# Reflection
 ## 7/26/17
 Today, I spent my time working on happy numbers. I started off by doing a simple program that squares a number. I then began working on the other parts of the project, such as spliting the number up into digits and squaring them. This is where I am stuck. I wrote the requirements out to help me understand it better. Now, I need to get each function to work. Split function is supposed to split up the number that you enter, so that the square function can double each of the numbers. I then need to add the numbers up, and continue the process until the answer is 0. This is a tough problem, but I am going to work on it later tonight and tomorrow. I also need to do some more work on my twitter bot. As of now, I am more focused on the happy numbers project. 
 
